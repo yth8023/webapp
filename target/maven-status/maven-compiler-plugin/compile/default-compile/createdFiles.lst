@@ -1,0 +1,6 @@
+nl\ekholabs\escode\web\EsCode.class
+nl\ekholabs\escode\action\GenerateEsCodeAction.class
+nl\ekholabs\escode\graphics\GeneratedCanvas.class
+nl\ekholabs\escode\web\FileUploadController.class
+nl\ekholabs\escode\graphics\ParsedCanvas.class
+nl\ekholabs\escode\action\SelectFileAction.class
